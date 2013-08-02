@@ -23,3 +23,6 @@ $ git push
 
 Go into github Settings, then change the repo name to `test-redirect-new`. Commit this README.md change.
 
+* A `git push` just worked!
+* This redirects too! https://github.com/metaskills/test-redirect
+
